@@ -1,6 +1,7 @@
 Answering Indian Legal Queries
 
 Why This Project Matters - 
+
 Until recently, the Indian Penal Code (IPC) served as the foundation of India’s criminal justice system, with 511 sections spanning 23 chapters. However, on July 1, 2024, the Bharatiya Nyaya Sanhita (BNS) officially replaced the IPC. The BNS introduces a modernized criminal code that addresses contemporary issues such as organized crime, cyber threats, and economic offenses, while placing greater emphasis on digital identity and authenticity.
 
 With this significant legal transition, I identified a critical gap: How can individuals, legal professionals, and institutions smoothly adapt to BNS when legal precedents and common understanding are still deeply rooted in the IPC? Moreover, the sudden shift poses a risk of confusion and misinterpretation, especially since many legal terms remain complex—and LLMs can hallucinate if not grounded in reliable legal texts.
