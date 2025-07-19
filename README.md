@@ -1,4 +1,4 @@
-Answering Indian Legal Queries
+Indian Legal Question-Answering with RAG
 
 Why This Project Matters - 
 
