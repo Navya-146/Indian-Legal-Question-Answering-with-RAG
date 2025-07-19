@@ -47,16 +47,16 @@ Future Work -
 
 Tech Stack - 
 
-Model & Inference: Groq API (meta-llama/llama-4-scout-17b-16e-instruct)
+    Model & Inference: Groq API (meta-llama/llama-4-scout-17b-16e-instruct)
 
-RAG Framework: LangChain
+    RAG Framework: LangChain
 
-Vector Store: FAISS
+    Vector Store: FAISS
 
-Embeddings: Hugging Face (all-MiniLM-L6-v2)
+    Embeddings: Hugging Face (all-MiniLM-L6-v2)
 
-Frontend: Streamlit
+    Frontend: Streamlit
 
-Storage: Local filesystem
+    Storage: Local filesystem
 
 If you have any suggestions, please feel free to reach out!
